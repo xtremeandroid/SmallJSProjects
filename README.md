@@ -1,14 +1,6 @@
 # SmallJSProjects
 
-Welcome to the project repository! This repository contains a collection of small, vanilla HTML, JS, and CSS projects. Each project is designed to showcase different concepts and techniques in web development.
-
-## Project Structure
-
-The repository follows a simple and consistent structure for each project. Inside each project directory, you'll find the following files:
-
-- `index.html`: The HTML file that defines the structure of the project.
-- `style.css`: The CSS file that handles the visual styling of the project.
-- `script.js`: The JavaScript file that contains the logic and interactivity of the project.
+Welcome to the project repository! This repository contains a collection of small Web Dev Projects, vanilla HTML, JS, Flask and CSS projects. Each project is designed to showcase different concepts and techniques in web development.
 
 Feel free to explore and modify the code to experiment with different features and functionalities.
 
