@@ -1,4 +1,4 @@
-# SmallJSProjects
+# SmallWebDevProjects
 
 Welcome to the project repository! This repository contains a collection of small Web Dev Projects, vanilla HTML, JS, Flask and CSS projects. Each project is designed to showcase different concepts and techniques in web development.
 
